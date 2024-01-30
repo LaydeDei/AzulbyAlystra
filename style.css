@@ -1,0 +1,22 @@
+p{
+	font-size : 22pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+ 
+
+p{ color : black;
+}
+
+h1 { color : green;
+
+}
+h2 { color : blue;
+}
+h3 {color : red;
+}
+
+body {
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/spa-woman-female-enjoying-massage-in-spa-centre-royalty-free-image-492676582-1549988720.jpg");
+}
+
